@@ -1,0 +1,33 @@
+/*
+DEBUGGIN CSS
+
+* {
+  border: 1px solid red;
+}
+*/
+
+/*
+  Anatomy of CSS
+  selector {propery: value}
+    
+  create a "I love bacon" website
+*/
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 0.3rem;
+}  
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: #66bfbf;
+}
